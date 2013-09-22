@@ -210,7 +210,6 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "SettingsForm";
-            this.Opacity = 0.9D;
             this.Text = "Налаштування";
             this.Load += new System.EventHandler(this.SettingsForm_Load);
             this.groupBox1.ResumeLayout(false);
