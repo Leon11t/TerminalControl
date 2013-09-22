@@ -133,7 +133,7 @@
             this.btnOpenPort.Name = "btnOpenPort";
             this.btnOpenPort.Size = new System.Drawing.Size(75, 23);
             this.btnOpenPort.TabIndex = 3;
-            this.btnOpenPort.Text = "Start";
+            this.btnOpenPort.Text = "Відкрити";
             this.btnOpenPort.UseVisualStyleBackColor = true;
             this.btnOpenPort.Click += new System.EventHandler(this.btnOpenPort_Click);
             // 
@@ -143,7 +143,7 @@
             this.btnClosePort.Name = "btnClosePort";
             this.btnClosePort.Size = new System.Drawing.Size(75, 23);
             this.btnClosePort.TabIndex = 4;
-            this.btnClosePort.Text = "Stop";
+            this.btnClosePort.Text = "Закрити";
             this.btnClosePort.UseVisualStyleBackColor = true;
             this.btnClosePort.Click += new System.EventHandler(this.btnClosePort_Click);
             // 
@@ -155,7 +155,7 @@
             this.rtbRX.TabIndex = 5;
             this.rtbRX.Text = "";
             // 
-            // mainForm
+            // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
